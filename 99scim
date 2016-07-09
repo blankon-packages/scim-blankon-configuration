@@ -1,0 +1,5 @@
+GTK_IM_MODULE=scim
+QT_IM_MODULE=scim
+
+export GTK_IM_MODULE
+export QT_IM_MODULE

@@ -1,0 +1,12 @@
+Source: scim-blankon-configuration
+Section: misc
+Priority: optional
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.4
+
+Package: scim-blankon-configuration
+Architecture: all
+Depends: ${misc:Depends}, scim-gtk-immodule 
+Description: BlankOn avatar default
+ BlankOn avatar default.
