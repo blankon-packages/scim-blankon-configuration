@@ -1,3 +1,9 @@
+scim-blankon-configuration (0.2) tambora; urgency=medium
+
+  * Drop depends scim-gtk-immodule
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 14 Jul 2016 05:15:48 +0700
+
 scim-blankon-configuration (0.1) tambora; urgency=medium
 
   * initial release 

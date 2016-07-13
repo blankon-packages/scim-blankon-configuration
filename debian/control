@@ -7,6 +7,6 @@ Standards-Version: 3.9.4
 
 Package: scim-blankon-configuration
 Architecture: all
-Depends: ${misc:Depends}, scim-gtk-immodule 
+Depends: ${misc:Depends} 
 Description: BlankOn avatar default
  BlankOn avatar default.
